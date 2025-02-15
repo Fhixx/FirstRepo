@@ -1,2 +1,2 @@
 # FirstRepo
-Tutorial
+Tutorial sederhana saja
